@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wtyczka usługi bezpieczeństwa</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Anuluj</string>
+    <string name="privacy_declare_dialog_title">Warunki użytkowania</string>
+    <string name="privacy_prompt_traffic_purchase_message">Twój numer telefonu oraz dane operatora zostaną zaszyfrowane i przesłane na serwery Xiaomi, aby uzyskać więcej informacji o możliwościach zakupu danych.</string>
+    <string name="miuishare_title_more">Więcej</string>
+    <string name="miuishare_title_share">Udostępnij</string>
+    <string name="miuishare_wechat_timeline_title">Momenty WeChat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Nie można połączyć z siecią</string>
+    <string name="no_network_btn">Spróbuj ponownie</string>
+    <string name="main_toolbar_purchase">Doładuj</string>
+    <string name="usage_sorted_loading_text">Chwileczkę…</string>
+    <string name="month_report_activity_label">Raport miesięczny</string>
+    <string name="month_report_disconnect_tip">Nie można połączyć z siecią</string>
+    <string name="month_report_click_reconnect_network">Spróbuj ponownie</string>
+    <string name="month_report_warning_dialog_title">Miesięczny raport bezpieczeństwa</string>
+    <string name="month_report_warning_dialog_description">Aby zobaczyć raport miesięczny, włącz opcję w ustawieniach aplikacji bezpieczeństwa.</string>
+    <string name="month_report_warning_dialog_positive">Włącz</string>
+    <string name="month_report_history_activity_label">Historia raportów</string>
+    <string name="month_report_result_share">Udostępnij</string>
+    <string name="month_report_share_img_fail">Nie udało się udostępnić</string>
+    <string name="month_report_share_loading">Chwileczkę…</string>
+    <string name="month_report_network_dialog_title">Nie udało się uzyskać informacji o raporcie</string>
+    <string name="month_report_network_dialog_description">Zezwolić aplikacji na dostęp do sieci w celu pobrania informacji o raporcie?</string>
+    <string name="month_report_network_dialog_positive">Zezwól</string>
+    <string name="month_report_follow_service_title">Aktualizacje bezpieczeństwa</string>
+    <string name="month_report_follow_service_summary">Bądź na bieżąco z nowościami nt. bezpieczeństwa, obserwując oficjalne konto aplikacji bezpieczeństwa MIUI.</string>
+    <string name="month_report_follow_service_positive">Obserwuj</string>
+    <string name="month_report_follow_service_negative">Nie, dziękuję</string>
+    <string name="app_not_installed_toast">Aplikacja nie jest zainstalowana na twoim urządzeniu.</string>
+    <string name="empty">" "</string>
+    <string name="share">Udostępnij</string>
+    <string name="open_browser">Otwórz w przeglądarce</string>
+    <string name="title_share_link">Udostępnij URL</string>
+    <string name="pm_lable_name">O uprawnieniach ROOT</string>
+    <string name="pc_activity_title">Optymalizuj baterię</string>
+</resources>

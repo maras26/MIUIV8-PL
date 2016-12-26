@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d połączeń</item>
+        <item quantity="one">1 połączenie</item>
+        <item quantity="few">%d połączenia</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d SMSów</item>
+        <item quantity="one">1 SMS</item>
+        <item quantity="few">%d SMSów</item>
+    </plurals>
+</resources>

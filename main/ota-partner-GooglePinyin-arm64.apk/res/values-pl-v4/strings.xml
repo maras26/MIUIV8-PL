@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Ustawienia metody wprowadzania Google – pinyin</string>
+    <string name="setting_input_summary">Chiński tradycyjny lub uproszczony, podpowiedzi, autokorekta, pisanie gestami, przybliżone odpowiedniki pinyin itp.</string>
+    <string name="tutorial_activation_title">Skonfiguruj metodę wprowadzania Google – pinyin</string>
+    <string name="tutorial_enable_hint">1. Włącz metodę wprowadzania Google – pinyin</string>
+    <string name="tutorial_select_hint">2. Wybierz metodę wprowadzania Google – pinyin</string>
+</resources>

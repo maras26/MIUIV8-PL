@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="channel_header_subscriber_count">
+        <item quantity="other">%1$,d subskrypcji</item>
+        <item quantity="zero">0 subskrypcji</item>
+        <item quantity="one">%1$,d subskrypcja</item>
+        <item quantity="two">%1$,d subskrypcje</item>
+        <item quantity="few">%1$,d subskrypcje</item>
+        <item quantity="many">%1$,d subskrypcji</item>
+    </plurals>
+    <plurals name="playlist_size">
+        <item quantity="other">Filmy: %1$,d</item>
+        <item quantity="one">1 film</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Pozostałe dni: %1$d</item>
+        <item quantity="one">Pozostał 1 dzień</item>
+        <item quantity="two">Pozostały 2 dni</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Pozostałe godziny: %1$d</item>
+        <item quantity="one">Pozostała godzina</item>
+        <item quantity="two">Pozostały 2 godziny</item>
+    </plurals>
+    <plurals name="minutes_remaining">
+        <item quantity="other">Pozostałe minuty: %1$d</item>
+        <item quantity="one">Pozostała 1 minuta</item>
+        <item quantity="two">Pozostały 2 minuty</item>
+    </plurals>
+    <plurals name="upload_progress">
+        <item quantity="other">Przesłano %1$,d%%</item>
+        <item quantity="zero">Przesłano %1$,d%%</item>
+        <item quantity="one">Przesłano %1$,d%%</item>
+        <item quantity="two">Przesłano %1$,d%%</item>
+        <item quantity="few">Przesłano %1$,d%%</item>
+        <item quantity="many">Przesłano %1$,d%%</item>
+    </plurals>
+    <plurals name="upload_seconds_remaing">
+        <item quantity="other">Pozostało około %1$,d s</item>
+        <item quantity="zero">Pozostało około %1$,d sekund</item>
+        <item quantity="one">Pozostało około %1$,d sekundy</item>
+        <item quantity="two">Pozostało około %1$,d sekund</item>
+        <item quantity="few">Pozostało około %1$,d sekund</item>
+        <item quantity="many">Pozostało około %1$,d sekund</item>
+    </plurals>
+    <plurals name="upload_minutes_remaing">
+        <item quantity="other">Pozostało około %1$,d min</item>
+        <item quantity="zero">Pozostało około %1$,d minut</item>
+        <item quantity="one">Pozostało około %1$,d minuty</item>
+        <item quantity="two">Pozostało około %1$,d minut</item>
+        <item quantity="few">Pozostało około %1$,d minut</item>
+        <item quantity="many">Pozostało około %1$,d minut</item>
+    </plurals>
+    <plurals name="upload_hours_remaing">
+        <item quantity="other">Pozostało około %1$,d godz.</item>
+        <item quantity="zero">Pozostało około %1$,d godzin</item>
+        <item quantity="one">Pozostało około %1$,d godziny</item>
+        <item quantity="two">Pozostało około %1$,d godzin</item>
+        <item quantity="few">Pozostało około %1$,d godzin</item>
+        <item quantity="many">Pozostało około %1$,d godzin</item>
+    </plurals>
+    <plurals name="age_and_views">
+        <item quantity="other">%1$s – wyświetlenia: %2$,d</item>
+        <item quantity="zero">%1$s – %2$,d wyświetleń</item>
+        <item quantity="one">%1$s – %2$,d wyświetlenie</item>
+        <item quantity="two">%1$s – %2$,d wyświetlenia</item>
+        <item quantity="few">%1$s – %2$,d wyświetlenia</item>
+        <item quantity="many">%1$s – %2$,d wyświetleń</item>
+    </plurals>
+    <plurals name="accessibility_like_video_plural">
+        <item quantity="other">Daj głos na tak, %1$,d innym osobom podoba się ten film</item>
+        <item quantity="zero">Daj głos na tak na ten film</item>
+        <item quantity="one">Daj głos na tak, %1$,d innej osobie podoba się ten film</item>
+        <item quantity="two">Daj głos na tak, %1$,d innym osobom podoba się ten film</item>
+        <item quantity="few">Daj głos na tak, %1$,d innym osobom podoba się ten film</item>
+        <item quantity="many">Daj głos na tak, %1$,d innym osobom podoba się ten film</item>
+    </plurals>
+    <plurals name="accessibility_undo_like_video_plural">
+        <item quantity="other">Cofnij głos na tak, %1$,d innym osobom podoba się ten film</item>
+        <item quantity="zero">Cofnij głos na tak dla tego filmu</item>
+        <item quantity="one">Cofnij głos na tak, %1$,d innej osobie podoba się ten film</item>
+        <item quantity="two">Cofnij głos na tak, %1$,d innym osobom podoba się ten film</item>
+        <item quantity="few">Cofnij głos na tak, %1$,d innym osobom podoba się ten film</item>
+        <item quantity="many">Cofnij głos na tak, %1$,d innym osobom podoba się ten film</item>
+    </plurals>
+    <plurals name="accessibility_dislike_video_plural">
+        <item quantity="other">Daj głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+        <item quantity="zero">Daj głos na nie dla tego filmu</item>
+        <item quantity="one">Daj głos na nie, %1$,d innej osobie nie podoba się ten film</item>
+        <item quantity="two">Daj głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+        <item quantity="few">Daj głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+        <item quantity="many">Daj głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+    </plurals>
+    <plurals name="accessibility_undo_dislike_video_plural">
+        <item quantity="other">Cofnij głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+        <item quantity="zero">Cofnij głos na nie dla tego filmu</item>
+        <item quantity="one">Cofnij głos na nie, %1$,d innej osobie nie podoba się ten film</item>
+        <item quantity="two">Cofnij głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+        <item quantity="few">Cofnij głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+        <item quantity="many">Cofnij głos na nie, %1$,d innym osobom nie podoba się ten film</item>
+    </plurals>
+    <plurals name="notification_playlist_progress_size">
+        <item quantity="other">%1$d z %2$d filmów</item>
+        <item quantity="zero">0 z 0 filmów</item>
+        <item quantity="one">%1$d z 1 filmu</item>
+        <item quantity="two">%1$d z %2$d filmów</item>
+        <item quantity="few">%1$d z %2$d filmów</item>
+        <item quantity="many">%1$d z %2$d filmów</item>
+    </plurals>
+</resources>

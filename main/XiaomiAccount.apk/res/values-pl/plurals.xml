@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontaktów</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d wiadomości</item>
+        <item quantity="one">%d wiadomość</item>
+        <item quantity="few">%d wiadomości</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notatek</item>
+        <item quantity="one">%d notatka</item>
+        <item quantity="few">%d notatki</item>
+    </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">Zaktualizowano %s kontaktów</item>
+        <item quantity="one">Zaktualizowano %s kontakt</item>
+        <item quantity="few">Zaktualizowano %s kontakty</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Pokaż wszystkie %d urządzeń</item>
+        <item quantity="one">Pokaż %d urządzenie</item>
+        <item quantity="few">Pokaż %d urządzenia</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">Pokaż wszystkie %d aplikacji</item>
+        <item quantity="one">Pokaż %d aplikację</item>
+        <item quantity="few">Pokaż wszystkie %d aplikacje</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">Pokaż wszystkie %d przeglądarek</item>
+        <item quantity="one">Pokaż %d przeglądarkę</item>
+        <item quantity="few">Pokaż wszystkie %d przeglądarki</item>
+    </plurals>
+</resources>

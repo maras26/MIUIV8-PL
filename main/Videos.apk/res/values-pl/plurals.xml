@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="see_n_more">
+        <item quantity="other">Jeszcze %1$d</item>
+        <item quantity="one">Jeszcze %1$d</item>
+        <item quantity="few">Jeszcze %1$d</item>
+        <item quantity="many">Jeszcze %1$d</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Wygasa za %1$d dnia</item>
+        <item quantity="one">Wygasa za %1$d dzień</item>
+        <item quantity="few">Wygasa za %1$d dni</item>
+        <item quantity="many">Wygasa za %1$d dni</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Wygasa za %1$d godziny</item>
+        <item quantity="one">Wygasa za %1$d godzinę</item>
+        <item quantity="few">Wygasa za %1$d godziny</item>
+        <item quantity="many">Wygasa za %1$d godzin</item>
+    </plurals>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">Nowych wiadomości: %1$d</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+        <item quantity="few">Nowe wiadomości: %1$d</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Zarchiwizować %1$d konwersacji?</item>
+        <item quantity="one">Zarchiwizować %1$d konwersację?</item>
+        <item quantity="few">Zarchiwizować %1$d konwersacje?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">"Usunąć %1$d  konwersacji?"</item>
+        <item quantity="one">"Usunąć %1$d  konwersację?"</item>
+        <item quantity="few">"Usunąć %1$d  konwersacje?"</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Konwersacje zawierają wiele wiadomości, usunąć mimo to?</item>
+        <item quantity="one">Konwersacja zawiera wiele wiadomości, usunąć mimo to?</item>
+        <item quantity="few">Konwersacje zawierają wiele wiadomości, usunąć mimo to?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Zaznaczonych %d elementów</item>
+        <item quantity="one">Zaznaczony %d element</item>
+        <item quantity="few">Zaznaczone %d elementy</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Zarchiwizowano %1$d konwersacji.</item>
+        <item quantity="one">Zarchiwizowano %1$d konwersację.</item>
+        <item quantity="few">Zarchiwizowano %1$d konwersacje.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Usunięto %1$d konwersacji.</item>
+        <item quantity="one">Usunięto %1$d konwersację.</item>
+        <item quantity="few">Usunięto %1$d konwersacje.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Zmieniono folderów</item>
+        <item quantity="one">Zmieniono folder.</item>
+        <item quantity="few">Zmieniono foldery</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Zignorowane %1$d konwersacji.</item>
+        <item quantity="one">Zignorowana %1$d konwersacja.</item>
+        <item quantity="few">Zignorowane %1$d konwersacje.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Odznaczono %1$d konwersacji jako ważne.</item>
+        <item quantity="one">Odznaczono %1$d konwersację jako ważną.</item>
+        <item quantity="few">Odznaczono %1$d konwersacje jako ważne.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Odznaczono %1$d konwersacji jako spam</item>
+        <item quantity="one">Odznaczono %1$d konwersację jako spam</item>
+        <item quantity="few">Odznaczono %1$d konwersacje jako spam</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Zgłoszono %1$d konwersacji jako próbę oszustwa.</item>
+        <item quantity="one">Zgłoszono %1$d konwersację jako próbę oszustwa.</item>
+        <item quantity="few">Zgłoszono %1$d konwersacje jako próbę oszustwa.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Zgłoszono %1$d konwersacji jako spam.</item>
+        <item quantity="one">Zgłoszono %1$d konwersację jako spam.</item>
+        <item quantity="few">Zgłoszono %1$d konwersacje jako spam.</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Robocze</item>
+        <item quantity="one">Roboczy</item>
+        <item quantity="few">Robocze</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d wiadomości zostanie trwale usuniętych.</item>
+        <item quantity="one">%1$d wiadomość zostanie trwałe usunięta.</item>
+        <item quantity="few">%1$d wiadomości zostaną trwale usunięte.</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Przenieś %1$d konwersacji</item>
+        <item quantity="one">Przenieś %1$d konwersację</item>
+        <item quantity="few">Przenieś %1$d konwersacje</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d nowych wiadomości</item>
+        <item quantity="one">%1$d nowa wiadomość</item>
+        <item quantity="few">%1$d nowe wiadomości</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">Zaznaczonych %d elementów</item>
+        <item quantity="one">Zaznaczony %d element</item>
+        <item quantity="few">Zaznaczone %d elementy</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d starszych wiadomości</item>
+        <item quantity="one">%1$d starsza wiadomość</item>
+        <item quantity="few">%1$d starsze wiadomości</item>
+    </plurals>
+</resources>

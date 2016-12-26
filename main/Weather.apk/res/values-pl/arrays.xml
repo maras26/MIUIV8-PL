@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Wrocław</item>
+        <item>Poznań</item>
+        <item>Kraków</item>
+        <item>Warszawa</item>
+        <item>Gdansk</item>
+        <item>Szczecin</item>
+        <item>Lodz</item>
+        <item>Moskwa</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Stambuł</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapur</item>
+        <item>Berlin</item>
+        <item>Rzym</item>
+        <item>Nowy Jork</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokio</item>
+        <item>Paryż</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Słonecznie</item>
+        <item>Pochmurno</item>
+        <item>Zachmurzenie</item>
+        <item>Mglisto</item>
+        <item>Ulewne deszcze</item>
+        <item>Ulewa</item>
+        <item>Ulewa</item>
+        <item>Burze</item>
+        <item>Deszcz</item>
+        <item>Duże opady</item>
+        <item>Deszczowo</item>
+        <item>Przelotne opady</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Burza śnieżna</item>
+        <item>Śnieg</item>
+        <item>Zamieć śnieżna</item>
+        <item>Zawieja śnieżna</item>
+        <item>Przelotny śnieg</item>
+        <item>Burza piaskowa</item>
+        <item>Burza piaskowa</item>
+        <item>Pyliście</item>
+        <item>Wietrznie</item>
+        <item>Grad</item>
+        <item>Zadyma</item>
+        <item>Mgiełka</item>
+        <item>Mżawka</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Słaby</item>
+        <item>Normalny</item>
+        <item>Silny</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Odpowiedni</item>
+        <item>Nieodpowiedni</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Odpowiedni</item>
+        <item>Nieodpowiedni</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>PN</item>
+        <item>PNW</item>
+        <item>W</item>
+        <item>PDW</item>
+        <item>PD</item>
+        <item>PDZ</item>
+        <item>Z</item>
+        <item>PNZ</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Dobra</item>
+        <item>Satysfakcjonująca</item>
+        <item>Średnio zanieczyszczone</item>
+        <item>Kiepskie</item>
+        <item>Bardzo kiepskie</item>
+        <item>Silnie</item>
+    </string-array>
+</resources>

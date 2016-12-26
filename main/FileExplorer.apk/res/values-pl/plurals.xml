@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Usuń %1$d plików</item>
+        <item quantity="one">Usuń %1$d plik</item>
+        <item quantity="few">Usuń %1$d pliki</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" i %1$d folderów?"</item>
+        <item quantity="one">" i %1$d folder?"</item>
+        <item quantity="few">" i %1$d foldery?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d elementów</item>
+        <item quantity="one">%d element</item>
+        <item quantity="few">%d elementy</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Wybrano %1$d plików</item>
+        <item quantity="one">Wybrano %1$d plik</item>
+        <item quantity="few">Wybrano %1$d pliki</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d elementów)</item>
+        <item quantity="one"> (%1$d element)</item>
+        <item quantity="few"> (%1$d elementy)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">(%1$d elementów)</item>
+        <item quantity="one">(%1$d element)</item>
+        <item quantity="few">(%1$d elementy)</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Pliki powiązane (%2$d elementów) z aplikacją \"%1$s\"</item>
+        <item quantity="one">Pliki powiązane (%2$d element) z aplikacją \"%1$s\"</item>
+        <item quantity="few">Pliki powiązane (%2$d elementy) z aplikacją \"%1$s\"</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Pliki powiązane (%2$d elementów) z \"%1$s\"</item>
+        <item quantity="one">Pliki powiązane (%2$d element) z \"%1$s\"</item>
+        <item quantity="few">Pliki powiązane (%2$d elementy) z \"%1$s\"</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Pliki powiązane (%2$d elementów) z tagiem \"%1$s\"</item>
+        <item quantity="one">Pliki powiązane (%2$d element) z tagiem \"%1$s\"</item>
+        <item quantity="few">Pliki powiązane (%2$d elementy) z tagiem \"%1$s\"</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minut temu</item>
+        <item quantity="one">%1$d minutę temu</item>
+        <item quantity="few">%1$d minuty temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d godz. temu</item>
+        <item quantity="one">%1$d godz. temu</item>
+        <item quantity="few">%1$d godz. temu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+        <item quantity="few">%1$d dni temu</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d sekund</item>
+        <item quantity="one">%1$d sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d minut</item>
+        <item quantity="one">%1$d minuta</item>
+        <item quantity="few">%1$d minuty</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d godzin</item>
+        <item quantity="one">%1$d godzina</item>
+        <item quantity="few">%1$d godziny</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d dni</item>
+        <item quantity="one">%1$d dzień</item>
+        <item quantity="few">%1$d dni</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Znaleziono %1$d nowych plików</item>
+        <item quantity="one">Znaleziono %1$d nowy plik</item>
+        <item quantity="few">Znaleziono %1$d nowe pliki</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Otrzymano %1$d plików od %2$s</item>
+        <item quantity="one">Otrzymano %1$d plik od %2$s</item>
+        <item quantity="few">Otrzymano %1$d pliki od %2$s</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Otrzymano %1$d plików w WeChat</item>
+        <item quantity="one">Otrzymano %1$d plik w WeChat</item>
+        <item quantity="few">Otrzymano %1$d pliki w WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d WeChat wideo wkrótce wygaśnie</item>
+        <item quantity="one">%1$d WeChat wideo wkrótce wygaśnie</item>
+        <item quantity="few">%1$d WeChat wideo wkrótce wygasną</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d wideo w konwersacji WeChat wkrótce wygaśnie. Czy utworzyć kopię zapasową w pamięci wewnętrznej urządzenia?</item>
+        <item quantity="one">%1$d wideo w konwersacji WeChat wkrótce wygaśnie. Czy utworzyć kopię zapasową w pamięci wewnętrznej urządzenia?</item>
+        <item quantity="few">%1$d wideo w konwersacji WeChat wkrótce wygasną. Czy utworzyć kopię zapasową w pamięci wewnętrznej urządzenia?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d nowych naklejek WeChat dzisiaj</item>
+        <item quantity="one">%1$d nowa naklejka WeChat dzisiaj</item>
+        <item quantity="few">%1$d nowe naklejki WeChat dzisiaj</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Utworzono kopię zapasową %1$d wideo WeChat.</item>
+        <item quantity="one">Utworzono kopię zapasową 1 wideo WeChat.</item>
+        <item quantity="few">Utworzono kopię zapasową %1$d wideo WeChat.</item>
+    </plurals>
+    <plurals name="remote_video_update">
+        <item quantity="other">Znaleziono %1$s nowych wideo</item>
+        <item quantity="one">Znaleziono %1$s nowe wideo</item>
+        <item quantity="few">Znaleziono %1$s nowe wideo</item>
+    </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other">Pobrań</item>
+        <item quantity="one">Pobranie</item>
+        <item quantity="few">Pobrania</item>
+    </plurals>
+    <plurals name="video_play_num">
+        <item quantity="other">%1$s wyświetleń</item>
+        <item quantity="one">%1$s wyświetlenie</item>
+        <item quantity="few">%1$s wyświetlenia</item>
+    </plurals>
+    <plurals name="video_num">
+        <item quantity="other">%1$s wideo</item>
+        <item quantity="one">%1$s wideo</item>
+        <item quantity="few">%1$s wideo</item>
+    </plurals>
+    <plurals name="follower_num">
+        <item quantity="other">obserwujących</item>
+        <item quantity="one">obserwujący</item>
+        <item quantity="few">obserwujących</item>
+    </plurals>
+    <plurals name="user_upload_items">
+        <item quantity="other">wideo</item>
+        <item quantity="one">wideo</item>
+        <item quantity="few">wideo</item>
+    </plurals>
+    <plurals name="number_of_comment">
+        <item quantity="other">%1$s komentarzy</item>
+        <item quantity="one">%1$s komentarz</item>
+        <item quantity="few">%1$s komentarze</item>
+    </plurals>
+    <plurals name="video_count">
+        <item quantity="other">%1$s wideo</item>
+        <item quantity="one">%1$s wideo</item>
+        <item quantity="few">%1$s wideo</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s komentrzy</item>
+        <item quantity="one">%1$s komentarz</item>
+        <item quantity="few">%1$s komentrze</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">Możesz wpisać %d znaków</item>
+        <item quantity="one">Możesz wpisać %d znak</item>
+        <item quantity="few">Możesz wpisać %d znaki</item>
+    </plurals>
+    <plurals name="video_items">
+        <item quantity="other">%1$d elementów</item>
+        <item quantity="one">%1$d element</item>
+        <item quantity="few">%1$d elementy</item>
+    </plurals>
+</resources>

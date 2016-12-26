@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Nie pokazywać tych twarzy?</item>
+        <item quantity="one">Nie pokazywać tej twarzy?</item>
+        <item quantity="few">Nie pokazywać tych twarzy?</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s zdjęć %2$s >></item>
+        <item quantity="one">%1$s zdjęcie %2$s >></item>
+        <item quantity="few">%1$s zdjęcia %2$s >></item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d lat</item>
+        <item quantity="one">%d rok</item>
+        <item quantity="few">%d lata</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d miesięcy</item>
+        <item quantity="one">%d miesiąc</item>
+        <item quantity="few">%d miesiące</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d zdjęć %2$s zostanie dodanych</item>
+        <item quantity="one">%1$d zdjęcie %2$s zostanie dodane</item>
+        <item quantity="few">%1$d zdjęcia %2$s zostaną dodane</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d zdjęć %2$s zostanie dodanych</item>
+        <item quantity="one">%1$d zdjęcie %2$s zostanie dodane</item>
+        <item quantity="few">%1$d zdjęcia %2$s zostaną dodane</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Udostępniono %d osobom</item>
+        <item quantity="one">Udostępniono %d osobie</item>
+        <item quantity="few">Udostępniono %d osobom</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">Wybrane zdjęcia nie znajdują się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
+        <item quantity="one">Wybrane zdjęcie nie znajduje się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
+        <item quantity="few">Wybrane zdjęcia nie znajdują się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Wybrane zdjęcia (%dMB) nie znajdują się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
+        <item quantity="one">Wybrane zdjęcie (%dMB) nie znajduje się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
+        <item quantity="few">Wybrane zdjęcia (%dMB) nie znajdują się na urządzeniu. Pobrać wykorzystując dane mobilne?</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">Wybrane zdjęcia nie znajdują się na urządzeniu. Zostaną pobrane.</item>
+        <item quantity="one">Wybrane zdjęcie nie znajduje się na urządzeniu. Zostanie pobrane.</item>
+        <item quantity="few">Wybrane zdjęcia nie znajdują się na urządzeniu. Zostaną pobrane.</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">Pominięto %d zdjęć, które nie znajdują się na urządzeniu.</item>
+        <item quantity="one">Pominięto zdjęcie, które nie znajduje się na urządzeniu.</item>
+        <item quantity="few">Pominięto %d zdjęcia, które nie znajdują się na urządzeniu.</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Nie udało się pobrać %1$d zdjęć, spróbować ponownie?</item>
+        <item quantity="one">Nie udało się pobrać zdjęcia, spróbować ponownie?</item>
+        <item quantity="few">Nie udało się pobrać %1$d zdjęć, spróbować ponownie?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Nie udało się pobrać %1$d zdjęć, połącz się z siecią i spróbuj ponownie</item>
+        <item quantity="one">Nie udało się pobrać zdjęcia, połącz się z siecią i spróbuj ponownie</item>
+        <item quantity="few">Nie udało się pobrać %1$d zdjęć, połącz się z siecią i spróbuj ponownie</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Nie udało się pobrać %1$d zdjęć (%2$dMB), spróbować ponownie?</item>
+        <item quantity="one">Nie udało się pobrać zdjęcia (%2$dMB), spróbować ponownie?</item>
+        <item quantity="few">Nie udało się pobrać %1$d zdjęć (%2$dMB), spróbować ponownie?</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Nie udało się pobrać %1$d zdjęć (%2$dMB), połącz się z siecią i spróbuj ponownie</item>
+        <item quantity="one">Nie udało się pobrać zdjęcia (%2$dMB), połącz się z siecią i spróbuj ponownie</item>
+        <item quantity="few">Nie udało się pobrać %1$d zdjęć (%2$dMB), połącz się z siecią i spróbuj ponownie</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Anulować pobieranie ostatnich %d zdjęć?</item>
+        <item quantity="one">Anulować pobieranie ostatniego zdjęcia?</item>
+        <item quantity="few">Anulować pobieranie ostatnich %d zdjęć?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Dodano %d zdjęć z chmury, wyłącz \"Pokaż tylko lokalne albumy\", aby podglądnąć.</item>
+        <item quantity="one">Dodano %d zdjęcie z chmury, wyłącz \"Pokaż tylko lokalne albumy\", aby podglądnąć.</item>
+        <item quantity="few">Dodano %d zdjęcia z chmury, wyłącz \"Pokaż tylko lokalne albumy\", aby podglądnąć.</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Usunąć %1$d zdjęć %2$s?</item>
+        <item quantity="one">Usunąć to zdjęcie %2$s?</item>
+        <item quantity="few">Usunąć %1$d zdjęcia %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Usunąć %1$d filmów %2$s?</item>
+        <item quantity="one">Usunąć ten film %2$s?</item>
+        <item quantity="few">Usunąć %1$d filmy %2$s?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Usunąć %1$d elementów %2$s?</item>
+        <item quantity="one">Usunąć %1$d element %2$s?</item>
+        <item quantity="few">Usunąć %1$d elementy %2$s?</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementów)</item>
+        <item quantity="one">(%d element)</item>
+        <item quantity="few">(%d elementy)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d zdjęć</item>
+        <item quantity="one">%d zdjęcie</item>
+        <item quantity="few">%d zdjęcia</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementów | %2$s</item>
+        <item quantity="one">%1$d element | %2$s</item>
+        <item quantity="few">%1$d elementy | %2$s</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d elementów zostało skopiowanych</item>
+        <item quantity="one">%1$d element został skopiowany</item>
+        <item quantity="few">%1$d elementy zostały skopiowane</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d elementów oczekuje na kopiowanie</item>
+        <item quantity="one">%1$d element oczekuje na kopiowanie</item>
+        <item quantity="few">%1$d elementy oczekują na kopiowanie</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Błąd sieci. %1$d elementów oczekuje na kopiowanie</item>
+        <item quantity="one">Błąd sieci. %1$d element oczekuje na kopiowanie</item>
+        <item quantity="few">Błąd sieci. %1$d elementy oczekują na kopiowanie</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Synchronizacja jest wyłączona. %1$d elementów oczekuje na kopiowanie</item>
+        <item quantity="one">Synchronizacja jest wyłączona. %1$d element oczekuje na kopiowanie</item>
+        <item quantity="few">Synchronizacja jest wyłączona. %1$d elementy oczekują na kopiowanie</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Chmura Xiaomi jest pełna. %1$d elementów oczekuje na kopiowanie</item>
+        <item quantity="one">Chmura Xiaomi jest pełna. %1$d element oczekuje na kopiowanie</item>
+        <item quantity="few">Chmura Xiaomi jest pełna. %1$d elementy oczekują na kopiowanie</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Brak miejsca w pamięci. %1$d elementów oczekuje na kopiowanie</item>
+        <item quantity="one">Brak miejsca w pamięci. %1$d element oczekuje na kopiowanie</item>
+        <item quantity="few">Brak miejsca w pamięci. %1$d elementy oczekują na kopiowanie</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d zdjęć do synchronizacji</item>
+        <item quantity="one">1 zdjęcie do synchronizacji</item>
+        <item quantity="few">%1$d zdjęcia do synchronizacji</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d wideo do synchronizacji</item>
+        <item quantity="one">1 wideo do synchronizacji</item>
+        <item quantity="few">%1$d wideo do synchronizacji</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementów do synchronizacji</item>
+        <item quantity="one">1 element do synchronizacji</item>
+        <item quantity="few">%1$d elementy do synchronizacji</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Synchronizowanie %1$d zdjęć…</item>
+        <item quantity="one">Synchronizowanie zdjęcia…</item>
+        <item quantity="few">Synchronizowanie %1$d zdjęć…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Synchronizowanie %1$d wideo…</item>
+        <item quantity="one">Synchronizowanie wideo…</item>
+        <item quantity="few">Synchronizowanie %1$d wideo…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Synchronizowanie %1$d elementów…</item>
+        <item quantity="one">Synchronizowanie elementu…</item>
+        <item quantity="few">Synchronizowanie %1$d elementów…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">Nie udało się pobrać %1$d plików</item>
+        <item quantity="one">Nie udało się pobrać %1$d pliku</item>
+        <item quantity="few">Nie udało się pobrać %1$d plików</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d zaznaczonych elementów</item>
+        <item quantity="one">%d zaznaczony element</item>
+        <item quantity="few">%d zaznaczone elementy</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">Pomiń %1$d grafik, których nie udało się odtworzyć.</item>
+        <item quantity="one">Pomiń grafikę, którą nie udało się odtworzyć.</item>
+        <item quantity="few">Pomiń %1$d grafik, których nie udało się odtworzyć.</item>
+    </plurals>
+</resources>

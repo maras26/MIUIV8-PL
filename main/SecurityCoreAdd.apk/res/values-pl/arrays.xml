@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="switch_apps_entries">
+        <item>Użyto w Pierwszej przestrzeni</item>
+        <item>Użyto w Drugiej przestrzeni</item>
+        <item>Użyto w obu przestrzeniach</item>
+    </string-array>
+    <string-array name="switch_apps_title_confirms">
+        <item>Dane aplikacji zostaną utracone</item>
+        <item>Dane aplikacji zostaną utracone</item>
+        <item>Powiadomienie</item>
+    </string-array>
+    <string-array name="switch_apps_msg_confirms">
+        <item>Dane aplikacji zostaną utracone po przeniesieniu aplikacji do Pierwszej przestrzeni.</item>
+        <item>Dane aplikacji zostaną utracone po przeniesieniu aplikacji do Drugiej przestrzeni.</item>
+        <item>Aplikacje są używane w obu przestrzeniach.</item>
+    </string-array>
+</resources>
