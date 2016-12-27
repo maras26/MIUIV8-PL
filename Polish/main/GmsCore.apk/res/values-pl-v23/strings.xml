@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="auth_setup_wizard_services_backup"><b>Automatycznie twórz kopię zapasową danych urządzenia</b> (np. haseł Wi-Fi i historii połączeń) oraz danych aplikacji (np. ustawień i plików zapisanych przez aplikacje) na Dysku Google. <annotation id="backup_details">Więcej informacji</annotation></string>
-    <string name="auth_setup_wizard_services_backup_dialog_text">"Kiedy włączysz automatyczną kopię zapasową, dane urządzenia i aplikacji będą regularnie zapisywane w prywatnym folderze na Dysku Google. Dane aplikacji mogą obejmować dowolne informacje zapisane przez aplikację (w zależności od ustawień określonych przez programistę) – w tym potencjalnie poufne dane takie jak kontakty, wiadomości i zdjęcia.
-
-Kopia zapasowa nie wlicza się do limitu miejsca na Dysku Google. Nie zostanie też utworzona w przypadku dużych plików oraz plików, które programista wyłączył z tej usługi."</string>
-    <string name="auth_setup_wizard_services_location_wireless_scan"><b>Zwiększ dokładność lokalizacji</b>, zezwalając aplikacjom i usługom na szukanie sieci Wi-Fi i urządzeń Bluetooth, nawet gdy Wi‑Fi i Bluetooth są wyłączone.</string>
-</resources>
