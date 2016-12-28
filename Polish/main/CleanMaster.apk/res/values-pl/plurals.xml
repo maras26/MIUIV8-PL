@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min temu</item>
+        <item quantity="zero">%1$d min temu</item>
+        <item quantity="one">%1$d minutę temu</item>
+        <item quantity="two">%1$d min temu</item>
+        <item quantity="few">%1$d min temu</item>
+        <item quantity="many">%1$d min temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d godz. temu</item>
+        <item quantity="zero">%1$d godz. temu</item>
+        <item quantity="one">%1$d godz. temu</item>
+        <item quantity="two">%1$d godz. temu</item>
+        <item quantity="few">%1$d godz. temu</item>
+        <item quantity="many">%1$d godz. temu</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="zero">%1$d dni temu</item>
+        <item quantity="one">%1$d dni temu</item>
+        <item quantity="two">%1$d dni temu</item>
+        <item quantity="few">%1$d dni temu</item>
+        <item quantity="many">%1$d dni temu</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Downloaded by %1$d people</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d wyświetleń</item>
+        <item quantity="zero">%1$d wyświetleń</item>
+        <item quantity="one">%1$d wyświetleń</item>
+        <item quantity="two">%1$d wyświetleń</item>
+        <item quantity="few">%1$d wyświetleń</item>
+        <item quantity="many">%1$d wyświetleń</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d grup</item>
+        <item quantity="one">%d grupa</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Usunąć %d zdjęć?</item>
+        <item quantity="one">Usunąć %d zdjęcie?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Usunąć %1$s zdjęć ze wszystkich urządzeń?</item>
+        <item quantity="one">Usunąć %1$s zdjęcie ze wszystkich urządzeń?</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Możesz wyczyścić niepotrzebne dane dla %d aplikacji</item>
+        <item quantity="one">Możesz wyczyścić niepotrzebne dane dla %d aplikacji</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">"Zainstalowanych aplikacji: %d. 
+Możesz usunąć rzadko używane."</item>
+        <item quantity="one">"Zainstalowanych aplikacji: %d. 
+Możesz ją usunąć."</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">"Znaleziono %d dużych plików. 
+Możesz usunąć niepotrzebne pliki."</item>
+        <item quantity="one">"Znaleziono %d duży plik. 
+Możesz go usunąć."</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">"Znaleziono %d zdjęć. 
+Możesz usunąć podobne zdjęcia lub ich duplikaty."</item>
+        <item quantity="one">"Znaleziono %d zdjęcie. 
+Możesz usunąć podobne zdjęcie lub duplikat."</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">"Znaleziono %d aplikacji.
+Możesz usunąć nieużywane."</item>
+        <item quantity="one">Znaleziono %d aplikację. Możesz ją usunąć.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">"Znaleziono %d filmów. 
+Możesz usunąć niepotrzebne.​"</item>
+        <item quantity="one">"Znaleziono %d film. 
+Możesz usunąć ten plik."</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d zainstalowanych aplikacji</item>
+        <item quantity="one">%d zainstalowana aplikacja</item>
+    </plurals>
+</resources>

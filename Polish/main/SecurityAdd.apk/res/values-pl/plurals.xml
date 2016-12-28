@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Dodano %d gier</item>
+        <item quantity="one">Dodano %d grę</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Nie dodano %d gier</item>
+        <item quantity="one">Nie dodano %d gry</item>
+    </plurals>
+</resources>

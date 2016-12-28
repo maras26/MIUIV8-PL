@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Rozmiar</item>
+        <item>Nazwa</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Rozmiar</item>
+        <item>Nazwa</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Często używane</item>
+        <item>Rozmiar</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>24 godz.</item>
+        <item>3 dni</item>
+        <item>7 dni</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Tylko powiadomienie</item>
+        <item>Wyczyść automatycznie</item>
+        <item>Wyczyść i powiadom</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Wyczyść</item>
+        <item>Pokaż plik</item>
+    </string-array>
+    <string-array name="trash_clean_menu">
+        <item>Wyczyść</item>
+        <item>Pokaż plik</item>
+    </string-array>
+    <string-array name="video_clean_menu">
+        <item>Wyczyść</item>
+        <item>Odtwórz</item>
+    </string-array>
+    <string-array name="empty_floder_clean_menu">
+        <item>Wyczyść</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Wyczyść</item>
+        <item>Zainstaluj aplikację</item>
+        <item>Pokaż plik</item>
+        <item>Dodaj do wyjątków</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Dodaj do wyjątków</item>
+    </string-array>
+    <string-array name="long_add_app_menu">
+        <item>Dodaj aplikację do wyjątków</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Odinstaluj</item>
+    </string-array>
+    <string-array name="auto_alert_apps_time">
+        <item>Co 7 dni</item>
+        <item>Co 15 dni</item>
+        <item>Co 30 dni</item>
+    </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Wyczyść</item>
+    </string-array>
+</resources>

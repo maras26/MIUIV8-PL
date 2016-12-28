@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_ringtone_silent">Brak</string>
+    <string name="android_ringtone_unknown">Nieznany dzwonek</string>
+    <string name="presentation_payphone">Płatny</string>
+    <string name="presentation_private">Prywatny</string>
+    <string name="presentation_unknown">Nieznany</string>
+    <string name="yellow_page_module_sms_sent">Wiadomość SMS wysłana</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Nie można wysyłać SMS w trybie Poufnym</string>
+    <string name="yellow_page_sms_send_failed">Nie można wysłać SMS</string>
+    <string name="yellow_page_sms_sending">Wysyłanie…</string>
+    <string name="yellow_page_unable_send_sms">Nie można wysłać SMS</string>
+    <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">MiPad</string>
+    <string name="device_xiaomi">Telefon MI</string>
+    <string name="miui_device_name">Android</string>
+    <string name="day_following_good_friday">Czwartek</string>
+    <string name="no_notification_tips">Brak powiadomień</string>
+    <string name="android_ringtone_default_with_actual">Domyślny dzwonek (%1$s)</string>
+    <string name="cloud_state_disabled">Synchronizacja z Chmurą wył.</string>
+    <string name="cloud_state_finished">Zsynchronizowano z Chmurą</string>
+    <string name="cloud_state_syncing">Zsynchronizowano z Chmurą</string>
+    <string name="edit_frequent_phrases">Edytuj popularne frazy</string>
+    <string name="menu_add_frequent_phrases">Dodaj</string>
+    <string name="menu_edit">Edytuj</string>
+    <string name="menu_delete">Usuń</string>
+    <string name="frequent_phrases_des">Możesz wpisać popularne frazy, by wybrać je podczas wprowadzania tekstu po zaledwie kilku dotknięciach.</string>
+    <string name="add_frequent_phrases">Dodaj popularne frazy</string>
+    <string name="delete_frequent_phrases">Usuń frazę</string>
+    <string name="delete_frequent_phrases_confirm">Usunąć wybrane frazy?</string>
+    <string name="frequent_phrases_size_exceeded">Możesz dodać maksymalnie %1$d fraz. Usuń zbędne lub wpisz nowe.</string>
+    <string name="cta_permission_delimiter">,</string>
+    <string name="cta_permission_and">i</string>
+    <string name="cta_title">Warunki użytkowania</string>
+    <string name="cta_message_license">Korzystając z tego produktu zgadzasz się na Warunki Usług i Politykę Prywatności.</string>
+    <string name="cta_message_permission">Aplikacja potrzebuje %2$s aby działać normalnie.</string>
+    <string name="cta_check_reminder">Nie pokazuj ponownie</string>
+    <string name="cta_button_quit">Wyjdź</string>
+    <string name="cta_button_continue">Zgoda</string>
+    <string name="group_name_contacts">Kontakty</string>
+    <string name="group_name_coworkers">Współpracownicy</string>
+    <string name="group_name_family">Rodzina</string>
+    <string name="group_name_friends">Znajomi</string>
+    <string name="maml_component_customization_title">Ustawienia</string>
+    <string name="resource_select">Wybierz</string>
+    <string name="default_name">Domyślnie</string>
+</resources>

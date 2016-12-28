@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sd_card_settings_label">Karta SD</string>
+    <string name="sd_memory">Karta SD</string>
+    <string name="sd_eject">Odłącz pamięć współdzieloną</string>
+    <string name="sd_eject_summary">Odłącz kartę SD</string>
+    <string name="sd_insert_summary">Włóż kartę SD</string>
+    <string name="sd_mount">Włóż kartę SD</string>
+    <string name="sd_mount_summary" />
+    <string name="sd_format">Wyczyść kartę SD</string>
+    <string name="sd_format_summary">Wymazuje wszystkie dane z karty SD np. pliki muzyczne i zdjęcia</string>
+    <string name="sd_ejecting_title">Odinstalowywanie</string>
+    <string name="sd_ejecting_summary">Odinstalowywanie w toku</string>
+    <string name="sd_card_storage">Karta SD</string>
+    <string name="sd_not_available">Nie wykryto karty SD</string>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarm za mniej niż minutę</item>
+        <item>Alarm za %1$s</item>
+        <item>Alarm za %2$s</item>
+        <item>Alarm za %1$s %2$s</item>
+        <item>Alarm za %3$s</item>
+        <item>Alarm za %1$s %3$s</item>
+        <item>Alarm za %2$s %3$s</item>
+        <item>Alarm za %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Wczoraj</item>
+        <item>Dziś</item>
+        <item>Jutro</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Tylko raz</item>
+        <item>Codziennie</item>
+        <item>W dni robocze</item>
+        <item>W dni wolne od pracy</item>
+        <item>Od poniedziałku do piątku</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Tylko raz</item>
+        <item>Codziennie</item>
+        <item>Od poniedziałku do piątku</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarm włączy się za mniej niż 1 minutę</item>
+        <item>Alarm włączy się za %1$s</item>
+        <item>Alarm włączy się za %2$s</item>
+        <item>Alarm włączy się za %1$s i %2$s</item>
+        <item>Alarm włączy się za %3$s</item>
+        <item>Alarm włączy się za %1$s i %3$s</item>
+        <item>Alarm włączy się za %2$s i %3$s</item>
+        <item>Alarm włączy się za %1$s, %2$s i %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Wyłączone</item>
+        <item>1 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>25 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nic nie rób</item>
+        <item>Drzemka</item>
+        <item>Zamknij</item>
+    </string-array>
+</resources>

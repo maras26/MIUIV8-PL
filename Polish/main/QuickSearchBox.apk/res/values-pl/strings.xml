@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hot_search">Pokaż popularne skróty</string>
+    <string name="search_history">Historia</string>
+    <string name="loading">Wczytywanie</string>
+    <string name="show_more">Więcej</string>
+    <string name="clear_history">Wyczyść historię</string>
+    <string name="search_in_web">Wyszukaj w sieci</string>
+    <string name="search_apps">Szukaj aplikacji</string>
+    <string name="search_videos">Wyszukaj wideo</string>
+    <string name="search_in_app_store">Wyszukaj w Google Play</string>
+    <string name="send_secret_code">Send code</string>
+    <string name="xiaomi_search_label">Wyniki</string>
+    <string name="search_suggestion">Podpowiedzi</string>
+    <string name="distance_unit_meter">m</string>
+    <string name="distance_unit_kilometer">km</string>
+    <string name="cta_declaration_title">Warunki Użytkowania</string>
+    <string name="cta_declaration">Aplikacja Wyszukiwanie potrzebuje dostępu do różnych danych telefonu w celu dostarczenia wyników.</string>
+    <string name="cta_declaration_ignore">Nie pokazuj ponownie</string>
+    <string name="cta_declaration_positive_text">OK</string>
+    <string name="cta_declaration_negative_text">Anuluj</string>
+    <string name="default_hint">Szukaj aplikacji, kontaktów, wiadomości</string>
+    <string name="network_unavailable">Brak połączenia z siecią</string>
+    <string name="connect_and_retry">Połącz z siecią i spróbuj ponownie</string>
+    <string name="applications_search_label">APK</string>
+    <string name="settings_description">Zainstalowane aplikacje</string>
+    <string name="application_desc">Aplikacje</string>
+    <string name="web_search_results">Wyniki wyszukiwania</string>
+    <string name="search_group_fold">Ukryj</string>
+    <string name="search_group_unfold">Więcej</string>
+    <string name="common_setting">Ustawienia</string>
+    <string name="recent_apps">Ostatnie aplikacje</string>
+    <string name="suggest_open_app_failed">Nie można otworzyć tej aplikacji</string>
+    <string name="search_keyword_quicksearchbox">Wyszukaj</string>
+    <string name="search_path_quicksearchbox">Ustawienia/Zainstalowane/Szukaj</string>
+    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+    <string name="apps_search_activity" />
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="default_search_domain">.google.com</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="xiaomi_suggest_base" />
+    <string name="xiaomi_homepage_suggest" />
+    <string name="xiaomi_homepage_hint" />
+    <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="baidu_search_url_from_systemui">https://www.google.pl/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_launcher">https://www.google.pl/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_minus_one">https://www.google.pl/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_input">https://www.google.pl/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_default">https://www.google.pl/search?q=%s&amp;tn=ins</string>
+    <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
+    <string name="xiaomi_hint" />
+    <string name="xiaomi_source_url" />
+    <string name="hot_words" />
+    <string name="app_name">Szukaj</string>
+    <string name="search_widget">Szukaj</string>
+    <string name="remove_from_history">Usuń z historii wyszukiwania</string>
+    <string name="remove_from_history_failed">Nie można usunąć pozycji z historii</string>
+    <string name="corpus_selection_heading">Przeszukuj</string>
+    <string name="corpus_label_global">Wszystko</string>
+    <string name="corpus_label_web">Sieć</string>
+    <string name="corpus_description_web">Wyszukiwarka, zakładki i historia przeglądarki</string>
+    <string name="corpus_label_apps">Aplikacje</string>
+    <string name="corpus_description_apps">Nazwy zainstalowanych aplikacji</string>
+    <string name="corpus_hint_apps">Szukaj w aplikacjach</string>
+    <string name="menu_settings">Ustawienia wyszukiwania</string>
+    <string name="search_settings">Ustawienia wyszukiwania</string>
+    <string name="google_settings_category_title">Wyszukiwarka Google</string>
+    <string name="device_settings_category_title">Wyczyść skróty</string>
+    <string name="system_search_category_title">Telefon</string>
+    <string name="search_sources">Przeszukiwane elementy</string>
+    <string name="search_sources_summary">Wybierz elementy przeszukiwane w telefonie</string>
+    <string name="clear_shortcuts">Wyczyść skróty</string>
+    <string name="clear_shortcuts_summary">Wyczyść skróty do ostatnio wybranych sugestii wyszukiwania</string>
+    <string name="clear_shortcuts_prompt">Spowoduje to wyczyszczenie wszystkich skrótów do ostatnio wybranych sugestii wyszukiwania. (Aby wyczyścić historię przeglądarki, użyj ustawień tej przeglądarki).</string>
+    <string name="clear_shortcuts_agree">Wyczyść skróty</string>
+    <string name="clear_shortcuts_disagree">Nie czyść skrótów</string>
+    <string name="recently_shortcut_label">Ostatnie skróty</string>
+    <string name="menu_help">Pomoc</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Wyszukiwarka Google</string>
+    <string name="google_search_hint">Wyszukiwarka Google</string>
+    <string name="google_search_description">Sugestie wyszukiwania Google</string>
+    <string name="voice_search_hint_title">Powiedz np.:</string>
+    <string name="voice_search_hint_quotation_start">\"</string>
+    <string name="voice_search_hint_quotation_end">\"</string>
+    <string name="entrance_setting">Otwieranie</string>
+    <string name="permission_prompt_detail">Szukaj filmów, książek, muzyki i innych.</string>
+    <string name="permission_prompt_start">Zezwól</string>
+    <string name="permission_prompt_started_info">Możesz włączyć globalne wyszukiwanie</string>
+    <string name="permission_prompt_title">Więcej wyszukiwań?</string>
+    <string name="recent_apps_filter">Ukryć rzadko używane aplikacje?</string>
+    <string name="recent_close_content">"Wyłączyć funkcję?
+Możesz to zmienić w Ustawienia > Systemowe > Szukaj"</string>
+    <string name="recent_close_title">Szukaj aplikacje</string>
+    <string name="recent_delete_content">"Ukryć aplikacje?
+Możesz to zmienić w Ustawienia > Systemowe > Szukaj"</string>
+    <string name="recent_delete_negative">Anuluj</string>
+    <string name="recent_delete_positive">OK</string>
+    <string name="recent_delete_title">Ukryj aplikacje</string>
+    <string name="recent_edit">Edycja</string>
+    <string name="recent_edit_done">Gotowe</string>
+    <string name="recent_filter_functions">Funkcje wył.</string>
+    <string name="recent_function">Funkcje</string>
+    <string name="search_button">Szukaj</string>
+    <string name="swipe_up_summary">Przesuń palcem w górę, aby otworzyć Wyszukiwanie</string>
+    <string name="swipe_up_title">Gest otwarcia wyszukiwania</string>
+    <string name="switch_application">Aplikacje</string>
+    <string name="switch_browser">Przeglądarka</string>
+    <string name="switch_contacts">Kontakty</string>
+    <string name="switch_file">Pliki</string>
+    <string name="switch_mms">Wiadomości</string>
+    <string name="switch_notes">Notatki</string>
+    <string name="switch_online">Sieć</string>
+    <string name="switch_prompt_ignore">Ignoruj</string>
+    <string name="switch_prompt_set">Pokaż opcje</string>
+    <string name="switch_prompt_title">Nie możesz znaleźć %s?</string>
+    <string name="switch_prompt_title_default">Nie możesz znaleźć tego czego szukasz?</string>
+    <string name="switch_setting">Opcje</string>
+    <string name="top_clicked">Popularne</string>
+    <string name="xiaomi_source_url_alpha" />
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d utworów zostało znalezionych</item>
+        <item quantity="one">%d utwór został znaleziony</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d days remaining</item>
+        <item quantity="one">%d day remaining</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d utworów zostanie pobranych</item>
+        <item quantity="one">1 utwór zostanie pobrany</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Usunąć %d playlist?</item>
+        <item quantity="one">Usunąć %d playlistę?</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nowych</item>
+        <item quantity="one">1 nowy</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">%d utwór</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d podobnych utworów</item>
+        <item quantity="one">%d podobny utwór</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d wykonawców</item>
+        <item quantity="one">%d wykonawca</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d zespołów</item>
+        <item quantity="one">%d zespół</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Usunąć %d utworów?</item>
+        <item quantity="one">Usunąć %d utwór?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Usunąć %d utworów?</item>
+        <item quantity="one">Usunąć %d utwór?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d utworów dodanych do playlisty</item>
+        <item quantity="one">1 utwór dodany do playlisty</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d usuniętych z playlisty</item>
+        <item quantity="one">1 utwór usunięty z playlisty</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">1 utwór</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Muzyka zakończy odtwarzanie za %d minut</item>
+        <item quantity="one">Muzyka zakończy odtwarzanie za %d minutę</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d utworów zostanie wysłanych</item>
+        <item quantity="one">1 utwór zostanie wysłany</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">1 utwór</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">Dodanych %d utworów</item>
+        <item quantity="one">%d dodany utwór</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d wybranych</item>
+        <item quantity="one">%d wybrany</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Utwory dodane do ulubionych</item>
+        <item quantity="one">1 utwór dodany do ulubionych</item>
+    </plurals>
+</resources>

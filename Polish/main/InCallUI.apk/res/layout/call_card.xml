@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/call_card" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/call_card_mask" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.android.incallui.view.AnimationCircleLayout android:id="@id/avatar_layer" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/avatar" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:contentDescription="@string/contactPhoto" />
+        <View android:id="@id/speak_on_mask" android:background="@drawable/mask_speak_on" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.android.incallui.view.AnimationCircleLayout>
+    <fragment android:name="com.android.incallui.VideoCallFragment" android:id="@id/videoCallFragment" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:layout_gravity="center_horizontal" android:id="@id/small_avatar_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/small_avatar" android:layout_width="@dimen/incoming_avatar_diameter" android:layout_height="@dimen/incoming_avatar_diameter" android:layout_marginTop="@dimen/call_info_avatar_margin_top" android:src="@drawable/default_small_avatar" android:contentDescription="@null" />
+        <ImageView android:id="@id/verify_img" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/incoming_verify" android:layout_alignRight="@id/small_avatar" android:layout_alignBottom="@id/small_avatar" />
+    </RelativeLayout>
+    <include android:id="@id/single_call_info" layout="@layout/single_call_info" />
+    <ViewStub android:id="@id/double_call_info" android:layout="@layout/double_call_info" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ViewStub android:id="@id/suspect_info_stub" android:layout="@layout/call_card_suspect_info" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

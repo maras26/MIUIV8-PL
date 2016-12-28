@@ -1,0 +1,10 @@
+<resources>
+    <string name="label_airplane_mode">Samolot</string>
+    <string name="label_silent_mode">Cichy</string>
+    <string name="label_reboot">Restartuj</string>
+    <string name="label_shutdown">Wyłącz</string>
+    <string name="label_emergency_call">Alarmowe</string>
+    <string name="label_alert_reboot">Dotknij, aby uruchomić ponownie</string>
+    <string name="label_alert_shutdown">Dotknij, aby wyłączyć</string>
+    <string name="label_blank">Wstecz</string>
+</resources>

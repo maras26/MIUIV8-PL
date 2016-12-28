@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d kontaktów</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d SMS</item>
+        <item quantity="one">%d SMS</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notatek</item>
+        <item quantity="one">%d notatka</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d zdjęć</item>
+        <item quantity="one">%d zdjęcie</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d blokowanych numerów</item>
+        <item quantity="one">%d blokowany numer</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d el. przeglądarki</item>
+        <item quantity="one">%d el. przeglądarki</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d el. kalendarza</item>
+        <item quantity="one">%d el. kalendarza</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d historii połączeń</item>
+        <item quantity="one">%d historia połączeń</item>
+    </plurals>
+    <plurals name="dirty_music_count">
+        <item quantity="other">%d utworów</item>
+        <item quantity="one">%d utwór</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d nagrań</item>
+        <item quantity="one">%d nagranie</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d sieci Wi-Fi</item>
+        <item quantity="one">%d sieć Wi-Fi</item>
+    </plurals>
+    <plurals name="sync_items_close">
+        <item quantity="other">%d jest wył.</item>
+        <item quantity="one">%d jest wył.</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Do synchronizacji: %d</item>
+        <item quantity="one">Do synchronizacji: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d el. do synchronizacji</item>
+        <item quantity="one">%d el. do synchronizacji</item>
+    </plurals>
+</resources>

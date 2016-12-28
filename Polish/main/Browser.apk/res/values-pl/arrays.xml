@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_engines_rCN">
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>Google</item>
+        <item>Yahoo</item>
+        <item>Bing</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Biały</item>
+        <item>Żółty</item>
+        <item>Szary</item>
+        <item>Brązowy</item>
+        <item>Zielony</item>
+        <item>Niebieski</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Komputer PC</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Domyślna strona startowa</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Najmniejszy</item>
+        <item>Mały</item>
+        <item>Normalny</item>
+        <item>Duży</item>
+        <item>Największy</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablet</item>
+    </string-array>
+</resources>

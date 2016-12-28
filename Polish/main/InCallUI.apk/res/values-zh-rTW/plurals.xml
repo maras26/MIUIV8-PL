@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d個通話錄音已完成</item>
+    </plurals>
+    <item type="plurals" name="APKTOOL_DUMMY_0001">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0002">false</item>
+    <item type="plurals" name="APKTOOL_DUMMY_0003">false</item>
+</resources>

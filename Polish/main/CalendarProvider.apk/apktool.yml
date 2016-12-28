@@ -1,0 +1,26 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: CalendarProvider.apk
+compressionType: false
+doNotCompress:
+- dex
+- arsc
+- json
+- xml
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '21'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  - 16
+  tag: null
+version: 2.1.0-285da3-SNAPSHOT
+versionInfo:
+  versionCode: '21'
+  versionName: 5.0.2

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Witamy</string>
+    <string name="app_name">Pierwsza konfiguracja</string>
+    <string name="input_method_setting">Wybierz domyślną klawiaturę</string>
+    <string name="input_method_category">"Wybierz domyślną klawiaturę do wprowadzania tekstu.
+Później będziesz mógł zainstalować inne klawiatury z Google Play."</string>
+    <string name="provision_inputmethod_policy_description">"
+Wybór ten możesz potem zmienić w Ustawieniach telefonu"</string>
+    <string name="provision_inputmethod_policy_description1" />
+    <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
+    <string name="multisim_settings_category">Opcje kart SIM</string>
+    <string name="sim_card_detection">Włóż kartę SIM</string>
+    <string name="sim_card_detecting_title">Wykryj kartę SIM</string>
+    <string name="sim_card_detection_info">Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.</string>
+    <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>
+    <string name="other_settings">Inne ustawienia</string>
+    <string name="other_settings_location">Lokalizacja</string>
+    <string name="other_settings_location_summary">Zezwól na dostęp aplikacji do lokalizacji</string>
+    <string name="other_settings_user_experience">Opinie użytkowników</string>
+    <string name="other_settings_user_experience_summary">Pomóż MIUI w ulepszaniu produktów przez przesyłanie anonimowych danych.</string>
+    <string name="other_settings_upload_debug_log_title">Wysyłaj dane diagnostyczne</string>
+    <string name="other_settings_upload_debug_log_summary">Dane z diagnostyki systemu mogą zawierać informacje o problemach ze sprzętem, systemem lub aplikacjami. Dane te będą wykorzystywane tylko w celu zdiagnozowania problemów z urządzeniem.</string>
+    <string name="other_settings_auto_update">Automatyczne aktualizacje</string>
+    <string name="other_settings_auto_update_summary">Funkcja niedostępna na Xiaomi.eu</string>
+    <string name="other_settings_mifg_online_content">Dzienne tapety blokady</string>
+    <string name="other_settings_mifg_online_content_summary">Połącz z siecią, aby pobierać regularnie nowe tapety ekranu blokady</string>
+    <string name="back">Cofnij</string>
+    <string name="next">Dalej</string>
+    <string name="skip_underline">Pomiń</string>
+    <string name="sim_dectection_next">Dalej</string>
+    <string name="shut_down">Wyłącz</string>
+    <string name="sim_redetection">Sprawdź ponownie</string>
+    <string name="congratulation_title">Wszystko gotowe</string>
+    <string name="congratulation_label">Aktualizacji szukaj na miuipolska.pl​</string>
+    <string name="pref_title_voice_slot">Preferowana karta SIM (rozmowy)</string>
+    <string name="pref_title_data_slot">Preferowana karta SIM (internet)</string>
+    <string name="summary_not_set">Nieustawione</string>
+    <string name="ime_privacy_policy">Polityka Prywatności wybranej klawiatury</string>
+    <string name="ime_privacy_policy_no_network">Nie można połączyć się z siecią. Wyświetl Politykę Prywatności z %s.</string>
+    <string name="terms_of_use">Warunki Użytkowania</string>
+    <string name="terms_of_use_label">Musisz zgodzić się na Warunki Użytkowania i Politykę Prywatności zanim zaczniesz korzystać z MIUI.</string>
+    <string name="user_agreement">Umowa Użytkownika</string>
+    <string name="privacy_policy">Polityka Prywatności</string>
+    <string name="agree">Zgadzam się</string>
+    <string name="disagree">Nie zgadzam się</string>
+    <string name="setting_locale">Ustawianie języka...</string>
+    <string name="agree_terms">Przeczytałem i zgadzam się z Warunkami Usług i Polityką Prywatności</string>
+    <string name="miui_terms_no_network">Brak połączenia z siecią. Przeczytaj Warunki Użytkowania na %s.</string>
+    <string name="miui_privacy_policy_no_network">Brak połączenia z siecią. Przeczytaj Politykę Prywatności na %s.</string>
+    <string name="locale_picker_title">Wybierz swój region</string>
+    <string name="install_preinstall_app">Wczytywanie aplikacji…</string>
+    <string name="title_fingerprint">Dodaj swój odcisk palca</string>
+    <string name="desc_fingerprint">Użyj odcisku palca, aby odblokować urządzenie.</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="next_fingerprint">Dalej</string>
+    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_international_fingerprint">Wykorzystaj czytnik odcisków palców do logowania się do różnych aplikacji.</string>
+    <string name="content_description_start">Rozpocznij</string>
+    <string name="content_description_miui_version">MIUI8</string>
+    <string name="content_description_complete">Gotowe</string>
+    <string name="content_description_language_picker">Wybór języka</string>
+    <string name="network_access_warning">Aby skorzystać z usług Xiaomi i Lokalizacji urządzenia wymagane jest połączenie z siecią.</string>
+    <string name="other_settings_user_experience_summary1">pokaż Polityka Prywatności</string>
+</resources>

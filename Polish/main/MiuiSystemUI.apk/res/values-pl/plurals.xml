@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">Ostatnie aplikacje: %d</item>
+        <item quantity="one">1 ostatnia aplikacja</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Ukryć powiadomienia dla %d aplikacji?</item>
+        <item quantity="one">Ukryć powiadomienia tej aplikacji?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Bezchmurnie</item>
+        <item quantity="one">Słonecznie</item>
+    </plurals>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d godz. "</item>
+        <item quantity="one">"%1$d godz. "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d min "</item>
+        <item quantity="one">"%1$d min "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d s</item>
+        <item quantity="one">%1$d s</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">"%1$d s "</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Drzemka na %d min</item>
+        <item quantity="one">Drzemka na %d min</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Drzemka na %d min</item>
+        <item quantity="one">Drzemka na %d minutę</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Wyciszenie alarmu po %d min</item>
+        <item quantity="one">Wyciszenie alarmu po %d minucie</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Usunąć wybrane alarmy?</item>
+        <item quantity="one">Usunąć ten alarm?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Usunąć wybrane strefy czasowe?</item>
+        <item quantity="one">Usunąć tę strefę czasową?</item>
+    </plurals>
+</resources>

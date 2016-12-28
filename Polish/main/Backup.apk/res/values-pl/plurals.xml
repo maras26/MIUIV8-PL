@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="data_item_count">
+        <item quantity="other">Elementów: %d</item>
+        <item quantity="one">Element: %d</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="edit_mode_title">
+        <item quantity="other">Wybranych: %1$d</item>
+        <item quantity="one">Wybrany: %1$d</item>
+    </plurals>
+</resources>
